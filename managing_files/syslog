@@ -1,0 +1,8 @@
+computer.name CRON[29440]: USER (good_user)
+computer.name jam_tag=psim[29187]: USER (UUID:006)
+computer.name jam_tag=psim[29187]: USER (UUID:007)
+computer.name CRON[29440]: USER (naughty_user)
+computer.name cacheclient[29807]: start syncin
+computer.name CRON[29440]: USER (naughty_user)
+computer.name CRON[29440]: USER (naughty_user)
+
